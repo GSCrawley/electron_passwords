@@ -1,12 +1,14 @@
 # electron_passwords
 
+# to activate the Desktop application, use " yarn start ". Easy, right?
 ### this is a simple password generator; you can generate random passwords, name them and save them in a list, in case you're like me and you constantly forget your passwords. 
 
 ## an additional feature that would make sense might be an encryption algorithm, so once a random password has been generated, only the owner is able to see the actual password... 
 
-## to see the app in the browser, use " yarn start "
+## Also needs a delete button , and maybe the ability to save lists of passwords(?)
 
-## to activate the electron app in dev mode, use " yarn electron-dev "
+
+
 
 
 
