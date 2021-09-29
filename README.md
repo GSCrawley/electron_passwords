@@ -4,6 +4,11 @@
 
 ## an additional feature that would make sense might be an encryption algorithm, so once a random password has been generated, only the owner is able to see the actual password... 
 
+## to see the app in the browser, use " yarn start "
+
+## to activate the electron app in dev mode, use " yarn electron-dev "
+
+
 
 
 
