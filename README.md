@@ -1,3 +1,13 @@
+# electron_passwords
+
+### this is a simple password generator; you can generate random passwords, name them and save them in a list, in case you're like me and you constantly forget your passwords. 
+
+## an additional feature that would make sense might be an encryption algorithm, so once a random password has been generated, only the owner is able to see the actual password... 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
